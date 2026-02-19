@@ -9,7 +9,7 @@ class Table {
                 System.out.println(e);
             }
         }
-        System.out.println(); // move to next line
+        System.out.println(" "); // move to next line
     }
 }
 
